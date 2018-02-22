@@ -79,9 +79,13 @@
 - Lemon-Limeade
 - Take That, Scurvy (achievement: get a lime)
 - Multi-Million Enterprise (achievement: make lemon-limeade)
-#### Version 1.0.0
+#### Version 1.0.0 (Mysterious Update)
 - Bagel Dimension
-- 
+- Bagel Dirt
+- Bagel Trees
+- Bagel Wood
+- Bagel Leaves
+- Memelord Mobs
 
 ## Beta:
 
