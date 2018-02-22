@@ -1,5 +1,7 @@
 # Goals:
+
 ## Alpha:
+
 #### Version 0.1.0: 
 - Blood Diamond Ore
 - Blood Diamond Ore appears in wild
@@ -30,7 +32,7 @@
 - Bagel Shard
 - Bagel King
 - A way to actually summon the Bagel King
-### Version 0.5.0
+#### Version 0.5.0
 - Titanium Ingot
 - Titanium Block
 - Titanium Sword
@@ -78,3 +80,7 @@
 - Take That, Scurvy (achievement: get a lime)
 - Multi-Million Enterprise (achievement: make lemon-limeade)
 #### Version 1.0.0
+
+## Beta:
+
+## Delta:
