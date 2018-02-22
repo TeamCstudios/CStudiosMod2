@@ -22,4 +22,4 @@ This mod is not finished yet, so go to [here](https://teamcstudios.pro/CStudiosM
 
 ### Planned features until next stage (Beta):
 
- [Document](https://docs.google.com/document/d/1UkmXEk-Hc_ShE9AJSIyjhweGXfwMqMpUhbA73O5-pl8/edit#heading=h.5zof30l0u387)
+ [Planned Features](planned-features)
