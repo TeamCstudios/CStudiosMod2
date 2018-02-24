@@ -21,7 +21,7 @@ This mod is not finished yet, so go to [here](https://teamcstudios.pro/CStudiosM
 
  [Planned Features](planned-features)
 
-### Additions in last build (0.2.0)
+### Additions in last build (0.3.0)
 - Amethyst Ore
 - Amy Ore appears in wild
 - Amy Block
