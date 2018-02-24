@@ -7,11 +7,7 @@ title: Welcome to the Official Mod of Team Cstudios!
 
 This is a remake of an old mod! Check out the old one [here](http://teamcstudios.pro/CStudiosMod)
 
-[Download Now](#downloads)!<br/>
-[Item Wiki](wiki)<br/>
-[Chat on IRC](irc)
-
-This mod adds amazing new stuff like:
+###### This mod adds amazing new stuff like:
 
 - Blood Diamond: A new gem, complete with a tool/armor set!
 
