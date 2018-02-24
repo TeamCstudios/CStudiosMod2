@@ -21,7 +21,7 @@ Here you can download from CurseForge or from GitHub (if for some reason you can
 
 Release Type | Change-Log | Download from CurseForge | Download from GitHub
 ----------|---------|-------|-------
-Alpha | 0.1.0 | oof | oof
+Alpha | [0.1.0](https://github.com/TeamCstudios/CStudiosMod2/releases/tag/v0.1.0) | [Download](https://minecraft.curseforge.com/projects/cstudiosmod/files/2534494/download) | [Download](https://github.com/TeamCstudios/CStudiosMod2/raw/master/builds/alpha-builds/cstudiosmod2_0.1.0.jar)
 
 ### DISCLAIMER
 [Mod created with MCreator, create your own mod today!](https://mcreator.pylo.co/)
