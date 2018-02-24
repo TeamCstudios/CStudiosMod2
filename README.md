@@ -7,27 +7,21 @@ This mod is not finished yet, so go to [here](https://teamcstudios.pro/CStudiosM
 
 ***Next Build: 0.2.0***
 
-*ETA of next build: Saturday 2/24/2018*
+*ETA of next build: unknown*
 
-### Planned features in next major build (0.2.0):
+### Planned features in next major build (0.3.0):
+
+### Planned bugfixes in next minor build (0.2.1):
+
+### Planned features until next stage (Beta):
+
+ [Planned Features](planned-features)
+
+### Additions in last build (0.2.0)
 - Slimeium Ore
 - Sl Ore appears in wild
 - Sl blocks, stone, bricks
 - Slime Dimension
 - Slime Zombie
 - Slime Fluid
-### Planned bugfixes in next minor build (0.2.0):
 - #2
-
-### Planned features until next stage (Beta):
-
- [Planned Features](planned-features)
-
-### Additions in last build (0.1.0)
-- Blood Diamond Ore
-- Blood Diamond Ore appears in wild
-- Blood Diamond Armor
-- Blood Diamond Tools
-- Blood Diamond Bow
-- Blood Diamond Block
-- Blood Diamond Apple
