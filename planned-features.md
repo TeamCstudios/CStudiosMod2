@@ -51,7 +51,7 @@
 - Achievement Tab
 - Better Fuel (holdover)
 - Nateslayer (holdover)
-- Artificial construction (holdover)
+- Artificial Construction (holdover)
 - Master of Combat (previously Triforce Hero)
 - Trendsetter (craft a fidget spinner)
 - Unnecessary Dedication (have all colored plastics)
@@ -88,5 +88,6 @@
 - Memelord Mobs
 
 ## Beta:
+#### Version 1.1.0
 
-## Delta:
+## Release:
