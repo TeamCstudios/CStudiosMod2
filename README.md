@@ -10,7 +10,14 @@ This mod is not finished yet, so go to [here](https://teamcstudios.pro/CStudiosM
 *ETA of next build: unknown*
 
 ### Planned features in next major build (0.3.0):
-
+- Amethyst Ore
+- Amy Ore appears in wild
+- Amy Block
+- Feldspar Ore
+- Feld Ore appears in sd
+- Feldsparite
+- Feldsparite Block
+- Feldspar Launcher
 ### Planned bugfixes in next minor build (0.2.1):
 
 ### Planned features until next stage (Beta):
