@@ -7,7 +7,7 @@ This mod is not finished yet, so go to [here](https://teamcstudios.pro/CStudiosM
 
 ***Next Build: 0.2.0***
 
-*ETA of next build: Friday 2/23/2018*
+*ETA of next build: Saturday 2/24/2018*
 
 ### Planned features in next major build (0.2.0):
 - Slimeium Ore
