@@ -1,4 +1,4 @@
-# CStudiosMod2
+# CStudios Mod 2
 The New CStudiosMod. 
 
 This mod is not finished yet, so go to [here](https://teamcstudios.pro/CStudiosMod) to get the old version, it's  a mess but at least it's feature complete.
