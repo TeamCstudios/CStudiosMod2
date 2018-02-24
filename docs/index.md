@@ -3,7 +3,7 @@ layout: main
 title: Welcome to the Official Mod of Team Cstudios!
 ---
 
-## HEY!
+#### HEY!
 
 This is a remake of an old mod! Check out the old one [here](http://teamcstudios.pro/CStudiosMod)
 
